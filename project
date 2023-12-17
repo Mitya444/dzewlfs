@@ -61,7 +61,7 @@ gandalf.play_song()
 gandalf.fight()
 gandalf.cast_spell()
 
-gundir = ElfWarrior("Aragorn", "sword", "Brave", "Rage")
+gundir = ElfWarrior("Gundir", "sword", "Brave", "Rage")
 gundir.play_song()
 gundir.fight()
 gundir.charge()
